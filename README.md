@@ -12,7 +12,7 @@ Farmers often depend on middlemen to sell produce, leading to reduced profits an
 
 # Proposed Solution (High-level)
 A module in mobile/web platform:
-# Direct Market Access (Marketplace)
+   Direct Market Access (Marketplace)
    - Farmer uploads crop listing with images and details
    - Buyers browse listings, contact farmers directly
    - In-app chat / price negotiation
