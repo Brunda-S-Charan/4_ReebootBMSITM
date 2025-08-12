@@ -2,13 +2,13 @@
 # Faculty Hackathon- Lady Logicians
 
 # Project Title: KrishiConnect: A Digital Platform for Direct Farmer-Buyer Engagement
-KrishiConnect is a web based app designed to eliminate the middle layer in the agricultural supply chain. It enables farmers to list their crops and produce along with relevant details such as quantity, quality, expected price, and harvest date. On the other end, buyers can search for produce by category, location, or pricing, and directly initiate contact or place orders. The application will be able to help farmers set optimal prices by analyzing market trends, location, and crop attributes using AI-Driven Price Prediction module.
+KrishiConnect is a mobile/ web based app designed to eliminate the middle layer in the agricultural supply chain. It enables farmers to list their crops and produce along with relevant details such as quantity, quality, expected price, and harvest date. On the other end, buyers can search for produce by category, location, or pricing, and directly initiate contact or place orders. The application will be able to help farmers set optimal prices by analyzing market trends, location, and crop attributes using AI-Driven Price Prediction module.
 
 # Project Type
 Software-dominant
 
 # Problem Statement
-Farmers face reduced profitability and market inefficiencies due to dependency on intermediaries in the agri-supply chain. The absence of a unified digital marketplace limits direct farmer–buyer transactions and data-driven decision-making. Our solution provides a mobile-first platform integrating real-time geolocation-based market access and AI-powered price prediction models using historical commodity datasets, enabling farmers to list produce, reach buyers directly, and set optimal selling prices based on predictive analytics.
+Farmers face reduced profitability and market inefficiencies due to dependency on intermediaries in the agri-supply chain. The absence of a unified digital marketplace limits direct farmer–buyer transactions and data-driven decision-making. Our solution provides a mobile/ web-based platform integrating real-time geolocation-based market access and AI-powered price prediction models using historical commodity datasets, enabling farmers to list produce, reach buyers directly, and set optimal selling prices based on predictive analytics.
 
 # Proposed Solution (High-level)
 A module in mobile/web platform:
