@@ -15,7 +15,7 @@ A module in mobile/web platform:
    Direct Market Access (Marketplace)
    - Farmer uploads crop listing with images and details
    - Buyers browse listings, contact farmers directly
-   - In-app chat / price negotiation
+   - In-app chat (Language specific) / price negotiation
    - Location-based buyer suggestions
    - Order status & notifications
 
